@@ -1,4 +1,4 @@
-# BitView Mobile is no longer avaliable. 
+# BitView Mobile is no longer available. 
 
 <p align = 'center'>
   <img
